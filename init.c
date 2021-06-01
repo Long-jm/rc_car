@@ -1,20 +1,3 @@
-//------------------------------------------------------------------------------
-// 
-// 
-//
-//Each file will contain a comment header that will contain the date, your name, and the compiler 
-// revision used to build the file. The comment header must also identify any global variables that 
-//are defined as part of the file as well as a two to three line description of the file and its contents. 
-//-----------------------------------------------------------------------------
-
-
-// Each function will have its own comment header, which will contain the same 
-// information as in the file header, but will also contain the globals used or 
-// changed, passed variables, local variables and returned values. These 
-// function headers should identify the various options for each port pin and 
-// what can be configured [alternate options]. The function header should list 
-// all ports being configured by the function, and what they relate to, whether 
-// it is General I/O, the switches, etc.
 
 #include "macros.h"
 #include "functions.h"
